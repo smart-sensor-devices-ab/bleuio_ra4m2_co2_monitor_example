@@ -32,7 +32,7 @@
 /** Macros definitions **/
 
 #define EP_INFO        "\r\nThis example project demonstrates how to use the Renesas RA MCUs together\r\n"\
-                       "with a BleuIO dongle to scan the CO2 values of a nearby HibouAir sensor.\r\n"\
+                       "with a BleuIO dongle to scan the CO2 values from the BLE msg of a nearby HibouAir sensor.\r\n"\
                        "Based on the CO2 value the on board LEDs will light up.\r\n"\
                        "Blue for good (<600ppm), green for average (<1000ppm) and red for poor (>1000ppm).\r\n"\
                        "The board will print the CO2 values as the change on the RTTViewer.\r\n\n\n"
